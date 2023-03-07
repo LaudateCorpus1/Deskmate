@@ -12,8 +12,7 @@ require (
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/tidwall/gjson v1.8.0 // indirect
-	github.com/tidwall/pretty v1.1.1 // indirect
+	github.com/tidwall/gjson v1.9.3 // indirect
 	github.com/tylerconlee/zendesk-go v0.0.10
 	github.com/vektah/gqlparser/v2 v2.2.0
 	go.uber.org/multierr v1.7.0 // indirect
